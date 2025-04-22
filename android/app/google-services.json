@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280063500802",
+    "project_id": "travelitneraryplanner",
+    "storage_bucket": "travelitneraryplanner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280063500802:android:b9a3d068923baab4197d1b",
+        "android_client_info": {
+          "package_name": "com.vishnu.travel_itinerary_planner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BKM0hFo6FLWbs-bUBPrXT04SryfHUGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
